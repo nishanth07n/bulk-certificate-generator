@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.pytest_cache/
+certificates.db
+generated/*.pdf
+.DS_Store
